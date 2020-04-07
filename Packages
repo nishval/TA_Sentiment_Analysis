@@ -1,0 +1,18 @@
+# Importing Packages
+
+library(textdata)
+library(tidytext)
+library(tidyverse)
+library(dplyr)
+library(janeaustenr)
+library(wordcloud)
+library(textdata)
+library(gutenbergr)
+library(reshape2)
+library(textreadr)
+library(scales)
+library(plotly)
+library(igraph)
+library(ggraph)
+library(tm)
+library(RColorBrewer)
